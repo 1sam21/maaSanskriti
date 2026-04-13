@@ -1,0 +1,12 @@
+# Project Specific Ignores
+**/node_modules/
+**/dist/
+**/dist-ssr
+**/*.local
+**/.env
+**/.env.local
+**/.env.*.local
+
+# System Ignores
+.DS_Store
+
